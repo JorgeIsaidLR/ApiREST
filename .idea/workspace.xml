@@ -55,7 +55,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="HTTP Request.rest-api | #10">
+  <component name="RunManager">
     <configuration name="rest-api | #10" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http" index="10" requestIdentifier="#10" runType="Run single request">
       <method v="2" />
     </configuration>
